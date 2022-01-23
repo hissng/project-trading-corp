@@ -369,20 +369,13 @@ design_btn = tkinter.Button(frame_business, command=design_execute, text="기  �
 design_btn.place(x=460, y=2.5)
 
 
-class BusinessItem:
-    def __init__(self):
-        self.name = ""
-        self.performance = 0
-        self.price = 0
-        self.popularity = 0
-        self.competition = 0
+# 커밋 테스트. 아아. 커밋테스트.
 
+# 커밋테스트. 아아. 아아. 아아아아. 커밋 제발 테스트. 이건 포함안되나?
 
-class Timer:
-    def __init__(self):
-        self.init_time = 0
-        self.waiting_time = 0
-        self.work = ""
+design_btn.place(x=460, y=2.5)
+design_btn.place(x=460, y=2.5)
+design_btn.place(x=460, y=2.5)
 
 
 
